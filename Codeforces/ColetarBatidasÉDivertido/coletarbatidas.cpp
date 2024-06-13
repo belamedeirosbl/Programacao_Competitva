@@ -22,9 +22,8 @@ int main(){
     }
     if(resp == 0){
         cout << "YES";
-    }else{
-        cout << "NO";
-    }
+    }else   {cout << "NO";}
+    
     return 0;
 }
 
